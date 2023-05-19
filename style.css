@@ -9,3 +9,9 @@ body {
   padding-left: 0px;
   margin-left: none;
 }
+
+.squareBullets {
+  list-style-type: square;
+  padding-left: 10px;
+  margin-left: 10px;
+}
