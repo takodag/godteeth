@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+
+    <link href="../../../style.css" rel="stylesheet" type="text/css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>blog | godteeth</title>
+    
+  </head>
+
+  <body>
+  
+    <header>
+      <nav>
+        <p><a href="../../../blog.html">up</a>
+        <a href="../../../index.html">home</a></p>
+      </nav>
+      <h2>19 may 2023</h2>
+      <h4>14:24</h4>
+      <hr />
+    </header>
+
+    <main>
+      <article>
+        <p>css styling has been implemented! additionally, some links and pages have been added. now that's what i call web development.</p>
+        <p>gt</p>
+      </article>
+    </main>
+
+    <footer>
+      <p><a href="20230517.html">&#8592</a> !</p>
+    </footer>
+  
+  </body>
+
+</html>
