@@ -4,14 +4,14 @@ body {
   font-size: 12pt;
 }
 
-.noBullets {
-  list-style-type: none;
-  padding-left: 0px;
-  margin-left: none;
-}
-
 .squareBullets {
   list-style-type: square;
   padding-left: 10px;
   margin-left: 10px;
+}
+
+.noBullets {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: none;
 }
