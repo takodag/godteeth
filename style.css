@@ -4,6 +4,17 @@ body {
   font-size: 12pt;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+
+  a {
+    color: lime;
+  }
+}
+
 .squareBullets {
   list-style-type: square;
   padding-left: 10px;
