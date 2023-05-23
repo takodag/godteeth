@@ -4,6 +4,10 @@ body {
   font-size: 12pt;
 }
 
+@media screen and (min-width: 481px) {
+  text-align: center;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: black;
