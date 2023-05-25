@@ -2,17 +2,13 @@ body {
   background-color: lightgray;
   font-family: palatino, serif;
   font-size: 12pt;
+  width: 100%;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: black;
-    color: white;
-  }
-
-  a {
-    color: lime;
-  }
+aside {
+  border-style: inset;
+  margin-right: 10px;
+  padding: 5px;
 }
 
 .squareBullets {
@@ -25,4 +21,15 @@ body {
   list-style-type: none;
   padding-left: 0px;
   margin-left: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+
+  a {
+    color: lime;
+  }
 }
