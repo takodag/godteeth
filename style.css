@@ -32,4 +32,8 @@ aside {
   a {
     color: lime;
   }
+
+  aside {
+    border-color: lightgray gray gray lightgray;
+  }
 }
