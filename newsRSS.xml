@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+  <title>godteeth's news</title>
+  <link>https://godteeth.com/news.html</link>
+  <description>interesting news i found</description>
+  <language>en-us</language>
+
+  <item>
+    <title>An electric cruise ship with gigantic sails is set to launch in 2030</title>
+    <link>https://edition.cnn.com/travel/article/hurtigruten-norway-zero-emission-cruise-ship-climate-c2e-spc-intl</link>
+    <pubDate>Thu, 08 Jun 2023 07:03:00 -0400</pubDate>
+    <description>Adventure cruise company Hurtigruten Norway today revealed plans for a zero-emissions electric cruise ship with retractable sails covered in solar panels, which is due to set sail in 2030</description>
+  </item>
+
+  <item>
+    <title>Paralyzed man walks naturally, thanks to wireless ‘bridge’ between brain and spine</title>
+    <link>https://www.science.org/content/article/paralyzed-man-walks-naturally-thanks-wireless-bridge-brain-spine</link>
+    <pubDate>Wed, 24 May 2023 11:55:00 -0400</pubDate>
+    <description>Implanted brain electrodes send signals that bypass damaged spinal cord area, using man’s thoughts to stimulate leg movement</description>
+  </item>
+</channel>
+
+</rss>
