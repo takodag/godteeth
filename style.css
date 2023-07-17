@@ -21,11 +21,14 @@ th {
 
 .left {
   border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
   text-align: center;
 }
 
 .right {
-  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
   text-align: center;
 }
 
@@ -73,11 +76,15 @@ th {
   
   .left {
   border-right: 1px solid white;
+  border-left: 1px solid white;
+  border-bottom: 1px solid white;
   text-align: center;
   }
   
   .right {
-  border-left: 1px solid white;
+  
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
   text-align: center;
   }
 }
