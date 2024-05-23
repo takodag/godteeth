@@ -58,8 +58,8 @@ th {
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: white;
-    background-color: darkgray;
+    color: lightgray;
+    background-color: black;
   }
   
   a {
