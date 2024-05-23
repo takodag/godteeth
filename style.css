@@ -59,7 +59,7 @@ th {
 @media (prefers-color-scheme: dark) {
   body {
     color: white;
-    background-color: black;
+    background-color: darkgray;
   }
   
   a {
