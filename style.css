@@ -46,7 +46,7 @@ th {
 
 @media screen and (min-width: 769px) {
   body {
-    max-width: 400px;
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
   }
