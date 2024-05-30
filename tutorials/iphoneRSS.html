@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en-US">
+
+  <head>
+
+    <link href="../style.css"
+      rel="stylesheet" type="text/css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+      content="width=device-width, intial-scale=1">
+    <title>how to: rss feed on vanilla ios | godteeth</title>
+    
+  </head>
+
+  <body>
+  
+    <header>
+      <nav>
+        <p><a href="../index.html">home</a></p>
+      </nav>
+      <h2>set up an rss feed on ios via shortcuts</h2>
+      <hr />
+    </header>
+
+    <main>
+      <article>
+        <p>this is how i subscribe to rss and atom feeds</p>
+        <p><b>requirement:</b> device running ios with the shortcuts app
+        <p>steps</p>
+        <ul>
+          <li>create a new shortcut</li>
+          <li>add action "choose from menu"</li>
+          <li>add the titles of the sites you want to follow via "add new item" (mine would just say "godteeth")</li>
+          <li>add action "url" under each item, and add the url of the associated feed you would like to follow</li>
+          <li>add action "end menu" to the bottom of your list</li>
+          <li>add action "get items from rss feed" below that</li>
+          <li>add action "filter articles" below that</li>
+          <li>add action "choose from list" below that</li>
+          <li>add action "open url" below that, and select "menu result" as the url variable (do not select a specific url)</li>
+        </ul>
+        <p>if you do this correctly, you should be able to view your rss feed by simply tapping the shortcut you created initially</p>
+      </article>
+    </main>
+  
+  </body>
+
+</html>
