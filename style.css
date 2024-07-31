@@ -5,6 +5,10 @@ body {
   font-family: Courier;
 }
 
+a {
+  color: darkblue;
+}
+
 aside {
   border-style: solid;
   border-color: white black black white;
