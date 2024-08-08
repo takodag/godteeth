@@ -1,6 +1,6 @@
 body {
   background-color: lightgray;
-  font-size: 12ptvw;
+  font-size: 16ptvw;
   padding: 5px;
   font-family: Serif, monospace;
 }
@@ -69,12 +69,12 @@ th {
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: #F2F2F2;
+    color: green;
     background-color: #222;
   }
   
   a {
-    color: red;
+    color: #F2F2F2;
   }
 
   aside {
