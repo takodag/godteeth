@@ -5,6 +5,10 @@ body {
   font-family: Serif, monospace;
 }
 
+a {
+  color: blue;
+}
+
 aside {
   border-style: solid;
   border-color: white black black white;
