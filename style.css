@@ -69,12 +69,12 @@ th {
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: lime;
-    background-color: #222;
+    color: lightgray;
+    background-color: black;
   }
   
   a {
-    color: blueviolet;
+    color: red;
   }
 
   aside {
